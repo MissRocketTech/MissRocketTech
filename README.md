@@ -19,10 +19,10 @@
 
 <br>
 
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/sylviapueyo">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com">
+  <a href="https://instagram.com/senstudio.es">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://youtube.com">
@@ -77,5 +77,5 @@ From custom web development to illustration and textile creation, I build comple
 
 ## 🤝 Connect with me
 
-🌐 [SEN Studio Portfolio](https://senstudio.es) · 🏢 [SEN Studio Atelier](https://senstudioatelier.es) · 💼 [LinkedIn](https://linkedin.com) · 📸 [Instagram](https://instagram.com) · 🎬 [YouTube](https://youtube.com) · ✉️ [Contact](mailto:tu-correo@example.com)
+🌐 [SEN Studio Portfolio](https://senstudio.es) · 🏢 [SEN Studio Atelier](https://senstudioatelier.es) · 💼 [LinkedIn](https://linkedin.com/in/sylviapueyo) · 📸 [Instagram](https://www.instagram.com/senstudio.es?igsh=MTd5ejA3ZWQ5cmljZA%3D%3D&utm_source=qr) · 🎬 [YouTube](https://youtube.com) · ✉️ [Contact](mailto:sylvia@senstudio.es)
 

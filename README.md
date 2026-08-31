@@ -1,6 +1,6 @@
-<div align="center">
 
-<img width="1584" height="396" alt="encambezadosen" src="https://github.com/user-attachments/assets/9cb0c63e-fe7d-433a-8e97-f9de86f70aa8" />
+<div align="center">
+<img width="1584" height="396" alt="bannerlinkedinl" src="https://github.com/user-attachments/assets/5f922673-861b-4ffe-b503-d8e9dd96928c" />
 
 
 # ¡Hola! Soy Sylvi Pueyo 👋
